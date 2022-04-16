@@ -1,5 +1,5 @@
 
-Etape 1: Créer un nouveau projet
+Etape 1: Créer un nouveau projet (si c'est pas déjà fait)
 
 Etape 2: Connecter la base de données 
 
