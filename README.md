@@ -5,7 +5,7 @@ Etape 2: Connecter la base de données
 
 Etape 3: Créer la/les Migration et le Model
 
-Etape 4: Configurer le Controller
+Etape 4: Configurer le Controller en ajoutant ('required|exists:blogs,created_at') dans les validations des champs à verifier
 
 Etape 5: Créer les Routes
 
